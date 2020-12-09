@@ -1,3 +1,7 @@
+"""
+DISCLAIMER: This is not my code; I pinched it from a Reddit post to try it out, but lost the source. If it's your code, please tell me and I'll happily credit you!
+"""
+
 import os
 import requests
 from datetime import datetime
