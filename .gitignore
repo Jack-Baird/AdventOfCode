@@ -126,3 +126,7 @@ dmypy.json
 
 # Cookie file for Get_Input.py
 /cookie
+
+# Directory utilities
+/DirConst.py
+/Utils/*

@@ -1,4 +1,4 @@
-
+# AoC 2020, Day 01, Part 2
 
 with open('./input.txt', 'r') as infile:
     indata = infile.read().splitlines()
