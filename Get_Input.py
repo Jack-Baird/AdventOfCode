@@ -2,6 +2,10 @@
 DISCLAIMER: This is not my code; I pinched it from a Reddit post to try it out, but lost the source. If it's your code, please tell me and I'll happily credit you!
 """
 
+#! DEPRECATED - This code needs refactoring to work with the new file structure and naming conventions!
+from sys import exit
+exit('\033[31;1mDEPRECATED\033[0m \033[31m- This code needs refactoring to work with the new file structure and naming conventions!\033[0m')
+
 import os
 import requests
 from datetime import datetime
