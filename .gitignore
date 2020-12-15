@@ -130,3 +130,6 @@ dmypy.json
 # Directory utilities
 /DirConst.py
 /Utils/*
+
+# Note files
+*/*/notes.txt
